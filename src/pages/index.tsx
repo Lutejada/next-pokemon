@@ -4,7 +4,7 @@ import { Layouts } from '../components/layouts/';
 
 export default function HomePage() {
   return (
-    <Layouts>
+    <Layouts title= 'listado de pokemones'>
       <h1>Hola Mundo</h1>
       <Button color='gradient'>Hola Mundo</Button>
     </Layouts>
